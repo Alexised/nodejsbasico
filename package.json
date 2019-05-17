@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "nodemon index.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/platzi/nodejsbasico#readme",
   "dependencies": {
-    "express": "^4.16.3",
-    "nodemon": "^1.18.4"
+    "express": "^4.17.0",
+    "nodemon": "^1.19.0"
   }
 }
